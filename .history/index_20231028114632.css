@@ -5,13 +5,9 @@
 }
 
 .container {
-  padding-top: 127px;
-  padding-left: 135px;
+  padding: 127px 434px 128px 135px;
   min-height: 100vh;
-  width: 100%;
-  background-image: url("./image/Bitmap\ \(2\).png");
-  background-size: 100% 100%;
-  border: 1px solid red;
+  background-image: url("./image/Bitmap\ \(6\).svg");
 }
 .container h1 {
     margin-bottom: 23px;
@@ -98,7 +94,6 @@ outline: none;
 
 .navigator img {
   position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  right: 434px;
+  bottom: 324px;
+  left: 934px;
 }
